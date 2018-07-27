@@ -1,0 +1,16 @@
+{
+  "name": "json_packages",
+  "version": "1.0.0",
+  "description": "my dependencies ",
+  "main": "chatServer.js",
+  "dependencies": {
+    "matter-js": "^0.14.1",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phillip",
+  "license": "ISC"
+}
